@@ -14,7 +14,7 @@ RecRL is a Deep Learning (DL) and Reinforcement Learning (RL) library written by
 5. **ncf2vec** ([Neural Collaborative Filtering](https://arxiv.org/abs/1708.05031))
 6. **node2vec** ([node2vec: Scalable Feature Learning for Networks](https://arxiv.org/abs/1607.00653))
 
-### Recall
+### Matching (Recall)
 1. **NCF** ([Neural Collaborative Filtering](https://arxiv.org/abs/1708.05031))
 2. **YDNNRecall** ([Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf))
 3. **RNN** ([Session-based Recommendations with Recurrent Neural Networks](https://arxiv.org/abs/1511.06939))
@@ -26,7 +26,7 @@ RecRL is a Deep Learning (DL) and Reinforcement Learning (RL) library written by
 9. **Long Sequential User Behavior** ([Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction](https://arxiv.org/pdf/1905.09248v1.pdf))
 10. **TDM** ([Learning Tree-based Deep Model for Recommender Systems](https://arxiv.org/pdf/1801.02294.pdf))
 
-### Multi-interest Recall
+### Multi-interest Matching (Recall)
 1. **MIND** ([Multi-Interest Network with Dynamic Routing for Recommendation at Tmall](https://arxiv.org/pdf/1904.08030.pdf))
 
 ### Ranking
