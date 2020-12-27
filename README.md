@@ -23,8 +23,7 @@ RecRL is a Deep Learning (DL) and Reinforcement Learning (RL) library written by
 6. **DIN** ([Deep Interest Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1706.06978.pdf))
 7. **DIEN** ([Deep Interest Evolution Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1809.03672.pdf))
 8. **Multi-Head Attention** ([BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://arxiv.org/pdf/1904.06690.pdf))
-9. **Long Sequential User Behavior** ([Practice on Long Sequential User Behavior Modeling for
-Click-Through Rate Prediction](https://arxiv.org/pdf/1905.09248v1.pdf))
+9. **Long Sequential User Behavior** ([Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction](https://arxiv.org/pdf/1905.09248v1.pdf))
 10. **TDM** ([Learning Tree-based Deep Model for Recommender Systems](https://arxiv.org/pdf/1801.02294.pdf))
 
 ### Recall Multi-interest
