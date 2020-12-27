@@ -17,6 +17,18 @@ RecRL is a Deep Learning (DL) and Reinforcement Learning (RL) library written by
 ### Recall
 1. **NCF** ([Neural Collaborative Filtering](https://arxiv.org/abs/1708.05031))
 2. **YDNNRecall** ([Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf))
+3. **RNN** ([Session-based Recommendations with Recurrent Neural Networks](https://arxiv.org/abs/1511.06939))
+4. **Transformer** ([Next Item Recommendation with Self-Attention](https://arxiv.org/pdf/1808.06414.pdf))
+5. **Transformer** ([Behavior Sequence Transformer for E-commerce Recommendation in Alibaba](https://arxiv.org/pdf/1905.06874.pdf))
+6. **DIN** ([Deep Interest Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1706.06978.pdf))
+7. **DIEN** ([Deep Interest Evolution Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1809.03672.pdf))
+8. **Multi-Head Attention** ([BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://arxiv.org/pdf/1904.06690.pdf))
+9. **Long Sequential User Behavior** ([Practice on Long Sequential User Behavior Modeling for
+Click-Through Rate Prediction](https://arxiv.org/pdf/1905.09248v1.pdf))
+10. **TDM** ([Learning Tree-based Deep Model for Recommender Systems](https://arxiv.org/pdf/1801.02294.pdf))
+
+### Recall Multi-interest
+1. **MIND** ([Multi-Interest Network with Dynamic Routing for Recommendation at Tmall](https://arxiv.org/pdf/1904.08030.pdf))
 
 ### Ranking
 1. **WDL** ([Wide & Deep Learning for Recommender Systems](https://arxiv.org/abs/1606.07792))
@@ -30,5 +42,3 @@ RecRL is a Deep Learning (DL) and Reinforcement Learning (RL) library written by
 ### Multi-task Learning
 1. **ESMM** ([Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate](https://arxiv.org/abs/1804.07931))
 2. **DSSM** ([Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](https://posenhuang.github.io/papers/cikm2013_DSSM_fullversion.pdf))
-
-
