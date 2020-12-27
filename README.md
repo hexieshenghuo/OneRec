@@ -7,28 +7,28 @@ RecRL is a Deep Learning (DL) and Reinforcement Learning (RL) library written by
 ## Supported Algorithms
 
 ### Embedding Models
-1. **word2vec** (Efficient Estimation of Word Representations in Vector Space)
-2. **item2vec** (Item2vec: Neural Item Embedding for Collaborative Filtering)
-3. **listing2vec** (Real-time Personalization using Embeddings for Searching Ranking at Airbnb)
-4. **youtube2vec** (Deep Neural Networks for YouTube Recommendations)
-5. **ncf2vec** (Neural Collaborative Filtering)
-6. **node2vec** (node2vec: Scalable Feature Learning for Networks)
+1. **word2vec** ([Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781))
+2. **item2vec** ([Item2vec: Neural Item Embedding for Collaborative Filtering](https://arxiv.org/abs/1603.04259))
+3. **listing2vec** ([Real-time Personalization using Embeddings for Searching Ranking at Airbnb](https://dl.acm.org/doi/10.1145/3219819.3219885))
+4. **youtube2vec** ([Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf))
+5. **ncf2vec** ([Neural Collaborative Filtering](https://arxiv.org/abs/1708.05031))
+6. **node2vec** ([node2vec: Scalable Feature Learning for Networks](https://arxiv.org/abs/1607.00653))
 
 ### Recall
-1. **NCF** (Neural Collaborative Filtering)
-2. **YDNNRecall** (Deep Neural Networks for YouTube Recommendations)
+1. **NCF** ([Neural Collaborative Filtering](https://arxiv.org/abs/1708.05031))
+2. **YDNNRecall** ([Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf))
 
 ### Ranking
-1. **WDL** (Wide & Deep Learning for Recommender Systems)
-2. **FNN** (Deep Learning over Multi-field Categorical Data)
-3. **PNN** (Product-based Neural Networks for User Response Prediction)
-4. **DeepFM** (DeepFM: A factorization-machine based neural network for CTR prediction)
-5. **DCN** (Deep & Cross Network for Ad Click Predictions)
-6. **YDNNRanking** (Deep Neural Networks for YouTube Recommendations)
-7. **xDeepFM** (xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems)
+1. **WDL** ([Wide & Deep Learning for Recommender Systems](https://arxiv.org/abs/1606.07792))
+2. **FNN** ([Deep Learning over Multi-field Categorical Data](https://arxiv.org/abs/1601.02376))
+3. **PNN** ([Product-based Neural Networks for User Response Prediction](https://arxiv.org/abs/1611.00144))
+4. **DeepFM** ([DeepFM: A factorization-machine based neural network for CTR prediction](https://arxiv.org/abs/1703.04247))
+5. **DCN** ([Deep & Cross Network for Ad Click Predictions](https://arxiv.org/abs/1708.05123))
+6. **YDNNRanking** ([Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf))
+7. **xDeepFM** ([xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems](https://arxiv.org/abs/1803.05170))
 
 ### Multi-task Learning
-1. **ESMM** (Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate)
-2. **DSSM** (Learning Deep Structured Semantic Models for Web Search using Clickthrough Data)
+1. **ESMM** ([Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate](https://arxiv.org/abs/1804.07931))
+2. **DSSM** ([Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](https://posenhuang.github.io/papers/cikm2013_DSSM_fullversion.pdf))
 
 
