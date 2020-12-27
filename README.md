@@ -6,7 +6,7 @@ RecRL is a Deep Learning (DL) and Reinforcement Learning (RL) library written by
 
 ## Supported Algorithms
 
-### Embedding Models
+### Embedding
 1. **word2vec** ([Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781))
 2. **item2vec** ([Item2vec: Neural Item Embedding for Collaborative Filtering](https://arxiv.org/abs/1603.04259))
 3. **listing2vec** ([Real-time Personalization using Embeddings for Searching Ranking at Airbnb](https://dl.acm.org/doi/10.1145/3219819.3219885))
@@ -26,7 +26,7 @@ RecRL is a Deep Learning (DL) and Reinforcement Learning (RL) library written by
 9. **Long Sequential User Behavior** ([Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction](https://arxiv.org/pdf/1905.09248v1.pdf))
 10. **TDM** ([Learning Tree-based Deep Model for Recommender Systems](https://arxiv.org/pdf/1801.02294.pdf))
 
-### Recall Multi-interest
+### Multi-interest Recall
 1. **MIND** ([Multi-Interest Network with Dynamic Routing for Recommendation at Tmall](https://arxiv.org/pdf/1904.08030.pdf))
 
 ### Ranking
