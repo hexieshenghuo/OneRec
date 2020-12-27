@@ -1,6 +1,6 @@
 # RecRL
 
-RecRL is a Deep Learning (DL) and Reinforcement Learning (RL) library written by [TensorFlow](https://www.tensorflow.org) for Recommendation Systems (RS). It provides the latest RL algorithms and keeps updated.
+RecRL is a Deep Learning (DL) and Reinforcement Learning (RL) library written by [TensorFlow](https://www.tensorflow.org) for Recommendation Systems (RS), from Embedding, Matching (Recall), to Ranking. Meanwhile, the Multi-interest and Multi-learning methods are also implemented. It provides the latest DL and RL algorithms and keeps updated.
 
 ***The codes will be available soon.***
 
