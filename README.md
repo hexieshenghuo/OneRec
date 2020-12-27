@@ -1,7 +1,8 @@
-# RecRL
+# OneRec
 
-RecRL is a Deep Learning (DL) and Reinforcement Learning (RL) library written by [TensorFlow](https://www.tensorflow.org) for Recommendation Systems (RS), from Embedding, Matching, to Ranking. Meanwhile, the Multi-interest and Multi-learning methods are also implemented. It provides the latest DL and RL algorithms and keeps updated.
+OneRec is *One* end-to-end Deep Learning (DL) and Reinforcement Learning (RL) library written by [TensorFlow](https://www.tensorflow.org) for Recommendation Systems (RS), from Embedding, Matching, to Ranking, and also includes Multi-interest and Multi-learning algorithms. It provides the latest DL and RL approaches and keeps updated.
 
+***This is an Algorithm-level project, which doesn't consist of a RPC framework.***
 ***The codes will be available soon.***
 
 ## Supported Algorithms
