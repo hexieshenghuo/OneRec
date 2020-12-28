@@ -1,6 +1,6 @@
 # OneRec
 
-OneRec is *One* end-to-end Deep Learning (DL) and Reinforcement Learning (RL) library written by [TensorFlow](https://www.tensorflow.org) for Recommendation Systems (RS), from Embedding, Matching, to Ranking, and also includes multi-interest, multi-task learning and shuffling algorithms. It provides the latest DL and RL approaches and keeps updated.
+OneRec is *One* end-to-end Deep Learning (DL) and Reinforcement Learning (RL) library written by [TensorFlow](https://www.tensorflow.org) for Recommendation Systems (RS), from Embedding, Matching, to Ranking, and also includes Multi-interest, Multi-task learning and Shuffling algorithms. It provides the latest DL and RL approaches and keeps updated.
 
 ***This is an Algorithm-level project, which doesn't consist of a RPC framework.***
 ***The codes will be available soon.***
